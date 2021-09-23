@@ -1,0 +1,3 @@
+(executable
+ (name migration)
+ (libraries base core stdio cmdliner mylib))

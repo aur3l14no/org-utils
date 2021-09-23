@@ -1,0 +1,10 @@
+root = true
+
+[*.{ml,mli,mll,mly}]
+indent_style = space
+indent_size = 2
+
+
+[{dune,dune-project}]
+indent_style = space
+indent_size = 1

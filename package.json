@@ -1,0 +1,17 @@
+{
+  "name": "org-utils",
+  "dependencies": {
+    "ocaml": "4.12.*",
+    "@opam/angstrom": "*",
+    "@opam/dune": "*",
+    "@opam/ocaml-lsp-server": "1.8.2",
+    "@opam/ppx_deriving": "*",
+    "@opam/base": "*",
+    "@opam/core": "*"
+  },
+  "devDependencies": {
+    "@opam/ocaml-lsp-server": "*",
+    "@opam/ocamlformat": "*",
+    "@opam/utop": "*"
+  }
+}
